@@ -1,9 +1,3 @@
-Excellent topic, Atul — let’s break this down cleanly and practically.
-I'll provide **Azure CLI** and **ARM Template/Terraform** sample codes for each Azure networking resource you mentioned.
-We’ll cover:
-
----
-
 ## 📚 Azure Networking Essentials — with Code
 
 ---
