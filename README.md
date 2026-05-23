@@ -1,5 +1,3 @@
-# Azure VNet, Subnet, CIDR, IP, 2ⁿ Logic & Key Points
-
 # 🌐 **Azure VNet, Subnet, CIDR, IP & 2ⁿ Logic Reference Guide**
 
 A complete networking reference for understanding **Azure Virtual Networks (VNets), Subnets, IP Addressing, CIDR math, and Azure-specific IP allocation rules.**
